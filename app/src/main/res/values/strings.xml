@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Moneyz</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_show_country">Show current country</string>
+    <string name="location_rationale">We use your location to determine which currency to convert to.</string>
+    <string name="location_rationale_title">Location permission request</string>
+    <string name="ok">OK</string>
+    <string name="no_country_identified">We could not automatically determine the country you\'re in.</string>
+</resources>
